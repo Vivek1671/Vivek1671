@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **vivekrajapandi1671@gmail.com**
 
+[![](https://visitcount.itsvg.in/api?id=vivek1671&icon=7&color=5)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mr_dark.choco/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vivek-rajapandi/) 
 
