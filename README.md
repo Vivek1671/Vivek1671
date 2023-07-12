@@ -1,19 +1,16 @@
-<h1 align="left">Hi 👋, I'm Vivek</h1>
+<h1 align="center">Hi 👋, I'm Vivek R</h1>
+
+###
+
+<p align="center">🌱 I’m currently learning Full Stack Development with MERN Stack</p>
+
+###
+
+<h3 align="left">Skills :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vivek1671&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vivek1671&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="170" src="https://miro.medium.com/v2/resize:fit:1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif"  />
-
-###
-
-<div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo"  />
@@ -41,7 +38,11 @@
 
 ###
 
-<div align="left">
+<h3 align="left">Connect With Me :</h3>
+
+###
+
+<div align="center">
   <a href="https://www.instagram.com/mr_dark.choco/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -55,14 +56,38 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="200" width="500" src="https://miro.medium.com/v2/resize:fit:1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif"  />
 
-<img src="https://raw.githubusercontent.com/Vivek1671/Vivek1671/output/snake.svg" alt="Snake animation" />
+###
+
+<p align="left">Profile Views :</p>
+
+###
+
+<img align="left" src="https://profile-counter.glitch.me/Vivek1671/count.svg?"  />
 
 ###
 
 <br clear="both">
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Vivek1671.Vivek1671&left_color=darkgoldenrod&right_color=cyan&left_text=Profile Views"  />
+<h3 align="left">My Activities</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vivek1671&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Vivek1671&locale=en&mode=daily&theme=aura_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vivek1671&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="left">Contributions :</h3>
+
+###
+
+<img src="https://raw.githubusercontent.com/Vivek1671/Vivek1671/output/snake.svg" alt="Snake animation" />
 
 ###
