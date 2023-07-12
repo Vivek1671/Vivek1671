@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">🌱 I’m currently learning Full Stack Development with MERN Stack</p>
+<h4 align="center">🌱 I’m currently learning Full Stack Development with MERN Stack</h4>
 
 ###
 
