@@ -84,7 +84,6 @@
 
 ###
 
-<h3 align="left">Contributions :</h3>
 
 ###
 
