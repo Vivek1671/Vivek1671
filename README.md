@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vivek R</h1>
 
 ###
+<h3>A passionate Full Stack developer from India</h3>
+###
+<h4 align="left">🌱 I’m currently learning Full Stack Development with MERN Stack</h4>
+<h4>📫 Reach me: vivekrajapandi1671@gmail.com </h4>
+<h4 align="left">👨‍💻 Recent Project</h4>
 
-<h4 align="center">🌱 I’m currently learning Full Stack Development with MERN Stack</h4>
-
+<li>Banking Application using Only ReactJs: (https://vivek-badbank.netlify.app/) </li>
+<li>Portfolio Project: (https://vivek1671.github.io/portfolio/)</li>
 ###
 
 <h3 align="left">Skills :</h3>
