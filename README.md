@@ -93,6 +93,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Vivek1671/Vivek1671/output/snake.svg" alt="Snake animation" />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vivek1671&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
 
 ###
