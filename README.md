@@ -94,7 +94,7 @@
 ###
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vivek1671&theme=discord&no-frame=false&no-bg=true&margin-w=3)
+![](https://github-profile-trophy.vercel.app/?username=vivek1671&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 
 ###
