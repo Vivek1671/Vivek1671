@@ -6,7 +6,7 @@
 
 <h4 align="left">🌱 I’m currently learning Full Stack Development with MERN Stack</h4>
 <h4>📫 Reach me: vivekrajapandi1671@gmail.com </h4>
-<h4 align="left">👨‍💻 Recent Project</h4>
+<h4 align="left">👨‍💻 My Projects</h4>
 
 <li>Pet Adoption Mobile App: (https://expo.dev/artifacts/eas/qWXhaZphBbBn7upmTuk5aE.apk)</li>
 <br />
