@@ -8,7 +8,7 @@
 <h4>📫 Reach me: vivekrajapandi1671@gmail.com </h4>
 <h4 align="left">👨‍💻 Recent Project</h4>
 
-<li>Banking Application using Only ReactJs: (https://vivek-badbank.netlify.app/) </li>
+<li>Banking Application: (https://mern-bank-application.netlify.app/) </li>
 <li>Portfolio Project: (https://vivek1671.github.io/portfolio/)</li>
 
 
