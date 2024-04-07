@@ -12,9 +12,9 @@
 <br />
 <li>Pet Adoption Mobile App: (https://expo.dev/artifacts/eas/qWXhaZphBbBn7upmTuk5aE.apk)</li>
 <br />
-<li>Banking Application: (https://mern-bank-application.netlify.app/) </li>
+<li>Banking Web Application: (https://mern-bank-application.netlify.app/) </li>
 <br />
-<li>Portfolio Project: (https://vivek1671.github.io/portfolio/)</li>
+<li>Personal Portfolio: (https://vivek1671.github.io/portfolio/)</li>
 
 
 <h3 align="left">Skills :</h3>
