@@ -8,6 +8,8 @@
 <h4>📫 Reach me: vivekrajapandi1671@gmail.com </h4>
 <h4 align="left">👨‍💻 Recent Project</h4>
 
+<li>Pet Adoption Application: (https://expo.dev/artifacts/eas/qWXhaZphBbBn7upmTuk5aE.apk)</li>
+<br />
 <li>Banking Application: (https://mern-bank-application.netlify.app/) </li>
 <br />
 <li>Portfolio Project: (https://vivek1671.github.io/portfolio/)</li>
