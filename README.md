@@ -24,7 +24,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/react-native/61DAFB" height="30" alt="react logo"  />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/react-native.svg" height="30" alt="React Native logo" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
