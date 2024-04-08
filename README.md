@@ -24,7 +24,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="38"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="35"/> 
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="32"/>
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
   <img width="12" />
