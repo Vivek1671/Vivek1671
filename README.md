@@ -8,9 +8,9 @@
 <h4>📫 Reach me: vivekrajapandi1671@gmail.com </h4>
 <h4 align="left">👨‍💻 My Projects</h4>
 
-<li>Placement Assistance System Mobile App : (https://shorturl.at/FXGnK)</li>
+<li>Placement Assistance System Mobile App : (https://tinyurl.com/careervk)</li>
 <br />
-<li>Pet Adoption Mobile App: (https://shorturl.at/8lc84)</li>
+<li>Pet Adoption Mobile App: (https://tinyurl.com/adoptails)</li>
 <br />
 <li>Banking Web Application: (https://mern-bank-application.netlify.app/) </li>
 <br />
