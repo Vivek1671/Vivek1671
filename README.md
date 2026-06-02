@@ -63,11 +63,6 @@
   </a>
 </div>
 
-###
-
-<img src="https://miro.medium.com/v2/resize:fit:1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif"  />
-
-###
 
 
 <h3 align="left">My Activities</h3>
