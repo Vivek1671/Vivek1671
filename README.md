@@ -28,8 +28,6 @@
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="32"/>
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
@@ -71,10 +69,6 @@
 
 ###
 
-<p align="left">Profile Views :</p>
-
-
-<br clear="both">
 
 <h3 align="left">My Activities</h3>
 
