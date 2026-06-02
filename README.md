@@ -54,7 +54,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/vk.dark.choco/" target="_blank">
+  <a href="https://www.instagram.com/vk.rosen/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank">
@@ -73,11 +73,6 @@
 
 <p align="left">Profile Views :</p>
 
-###
-
-<img align="left" src="https://profile-counter.glitch.me/Vivek1671/count.svg?"  />
-
-###
 
 <br clear="both">
 
@@ -88,10 +83,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vivek1671&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Vivek1671&locale=en&mode=daily&theme=aura_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vivek1671&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
-</div>
+ </div>
 
 ###
 
